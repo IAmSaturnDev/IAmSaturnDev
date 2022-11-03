@@ -20,3 +20,10 @@ I like whales.
 I hate JavaScript.
 
 ## BIG TEXT
+## What else do I put here oh yea! Some linky-links
+
+# https://liluo.com/SolarWater  Play my terrible games that are broken!
+
+# https://replit.com/@vSolarWater  View my replit!
+
+# https://www.planetminecraft.com/member/solarwater/  S T E V E
