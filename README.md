@@ -14,7 +14,7 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" /> C++
 
-<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/360px-Kotlin_logo_2021.svg.png" /> Kotlin
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/360px-Kotlin_logo_2021.svg.png" /> Kotlin
 
 I like whales.
 I hate JavaScript.
