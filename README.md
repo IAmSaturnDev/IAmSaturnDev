@@ -27,3 +27,5 @@ https://liluo.com/SolarWater  Play my terrible games that are broken!
 https://replit.com/@vSolarWater  View my replit!
 
 https://www.planetminecraft.com/member/solarwater/  S T E V E
+
+## Contact me at:  solarwatercodes@gmail.com
