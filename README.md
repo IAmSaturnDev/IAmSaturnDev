@@ -22,10 +22,14 @@ I hate JavaScript.
 ## BIG TEXT
 ## What else do I put here oh yea! Some linky-links
 
-https://liluo.com/SolarWater  Play my terrible games that are broken!
+https://liluo.io/SolarWater  Play my terrible games that are broken!
 
 https://replit.com/@vSolarWater  View my replit!
 
 https://www.planetminecraft.com/member/solarwater/  S T E V E
 
 ## Contact me at:  solarwatercodes@gmail.com
+
+I treat my privacy as if its my best friend.
+
+I am proud to be Canadian
