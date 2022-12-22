@@ -10,7 +10,6 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png" /> C#
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" /> GO
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" /> C++
 
@@ -26,3 +25,4 @@ https://www.planetminecraft.com/member/solarwater/  S T E V E
 ## Contact me at:  
 
 solarwatercodes@gmail.com
+solarwatercodes@outlook.com
