@@ -24,5 +24,4 @@ https://www.planetminecraft.com/member/solarwater/  S T E V E
 
 ## Contact me at:  
 
-solarwatercodes@gmail.com
-solarwatercodes@outlook.com
+solarwatercodes@gmail.com or solarwatercodes@outlook.com
