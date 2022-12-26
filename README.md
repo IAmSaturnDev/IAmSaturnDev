@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-## About me:
+# About me:
 
 I am a hobby developer.
 
@@ -12,16 +12,16 @@ I am not good at web developing. Infact the page your looking at is actually mar
 
 I am  a Black Canadian. My culture originates from Nigeria
 
-## Tools
+# Tools
 
-# Programming Languages
+## Programming Languages
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py&perlin=2" />
   </a>
 </p>
 
-## Links
+# Links
 
 https://liluo.io/SolarWater  Play my terrible games that are broken!
 
@@ -29,7 +29,7 @@ https://replit.com/@vSolarWater  View my replit!
 
 https://www.planetminecraft.com/member/solarwater/  S T E V E
 
-## Contact me at:  
+# Contact me at:  
 
 solarwatercodes@gmail.com or solarwatercodes@outlook.com
 
