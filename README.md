@@ -17,7 +17,7 @@ I am  a Black Canadian. My culture originates from Nigeria
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,lua,py,cs" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py&perlin=2" />
   </a>
 </p>
 
