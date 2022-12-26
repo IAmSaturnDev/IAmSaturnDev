@@ -12,9 +12,9 @@ I am not good at web developing. Infact the page your looking at is actually mar
 
 I am  a Black Canadian. My culture originates from Nigeria
 
-## I code in:
+## Tools
 
-
+# Programming Languages
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py&perlin=2" />
