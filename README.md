@@ -28,18 +28,4 @@ I am  a Black Canadian. My culture originates from Nigeria
   </a>
 </p>
 
-# Links
-
-https://liluo.io/SolarWater  Play my terrible games that are broken!
-
-https://replit.com/@vSolarWater  View my replit!
-
-https://www.planetminecraft.com/member/solarwater/  S T E V E
-
-https://iamsaturndev.github.io/VirtSH/ VirtSH **my project**
-
-# Contact me at:  
-
-solarwatercodes@gmail.com or solarwatercodes@outlook.com
-
 Black lives matter.
