@@ -24,7 +24,7 @@ I am  a Black Canadian. My culture originates from Nigeria
 ## Programs
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,docker,dotnet,vim,eclipse,idea&perline=2" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,docker,dotnet,vim,idea&perline=2" />
   </a>
 </p>
 
